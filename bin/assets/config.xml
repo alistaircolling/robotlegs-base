@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loader connections="2" base="assets/">
+ 
+    <group id="STARTUP-ASSETS">
+		<asset id="ASSETS" src="swfs/assets.swf"/>
+		<asset id="EXAMPLE-LOCAL-PNG" src="images/example.png" smoothing="true" transparent="true" />
+		<asset id="EXAMPLE-EXTERNAL-PNG" src="http://dummyimage.com/600x400/000/fff.png" smoothing="true" transparent="true" />
+    </group>
+ 
+</loader>
